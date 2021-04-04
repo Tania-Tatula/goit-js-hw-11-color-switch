@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,OACE,WAAY,CACZ,WAAY,CACZ,WAAY,CACZ,wBAAmC,CAEnC,cAAe,CACf,WACF","file":"style.6ba2463a.css","sourceRoot":"..\\src","sourcesContent":["button {\r\n  width: 120px;\r\n  height: 90px;\r\n  margin: 15px;\r\n  background-color: rgb(67, 109, 177);\r\n\r\n  font-size: 14px;\r\n  color: beige;\r\n}\r\n"]}
